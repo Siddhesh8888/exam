@@ -1,0 +1,38 @@
+title: Online Project Management
+
+Objective:
+	Online Project Management is a tool which helps in managing projects within an organization.This system will help employees, project managersl, delivery managers and stackholders to update about executions of projects going on in the organization.
+
+scope:
+	project manager can remove/add employee into their project.
+
+Functional Requirement:
+
+Project creation: A project manager can create a new project and set its name, description, start date, and end date.
+Task assignment: A project manager can assign tasks to team members and set their deadlines.
+Task tracking: Team members can update the progress of their assigned tasks, and project managers can view the progress of all tasks.
+Communication: The system will provide a messaging system for project managers and team members to communicate about the project.
+Reporting: The system will generate reports that show project progress, task completion, and other relevant metrics.
+
+
+
+Non functional requirement:
+
+security:
+	employee will login into portal by using credential and authentication process.
+	system get automatic logout if user inactive for 15 min.
+
+reliability:
+	system will back up data on regular basis to maintain data.
+	system give same performance in pick hours by managing load.
+
+availability:
+	system will be available for 24*7.
+
+maintainability:
+	already created server is used to deploy Online Project Management.
+	system will be managed properly,so maintainence will reqire less.
+
+durability:
+	system will deployed into any server(e.g. aws).
+ 	
