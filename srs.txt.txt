@@ -8,7 +8,7 @@ scope:
 
 Functional Requirement:
 
-Project creation: A project manager can create a new project and set its name, description, start date, and end date.
+Project creation: A project manager can create a new project and set its name, start date, and end date.
 Task assignment: A project manager can assign tasks to team members and set their deadlines.
 Task tracking: Team members can update the progress of their assigned tasks, and project managers can view the progress of all tasks.
 Communication: The system will provide a messaging system for project managers and team members to communicate about the project.
